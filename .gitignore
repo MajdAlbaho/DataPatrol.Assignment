@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DataPatrol.Api/bin/Debug/net6.0
+/DataPatrol.Api/obj
+/DataPatrol.DataModel/bin/Debug/net6.0
+/DataPatrol.DataModel/obj
+/DataPatrol.Services/bin/Debug/net6.0
+/DataPatrol.Services/obj
+/DataPatrol.WindowsForm/bin/Debug
+/DataPatrol.WindowsForm/obj
+/DataPatrol.WPF/bin/Debug/net6.0-windows
+/DataPatrol.WPF/obj
+/packages
